@@ -11,7 +11,7 @@ This is a simple Python project that converts text input into speech using the `
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text-to-speech-converter.git
+   git clone https://github.com/Farhaaaaaaa/TEXT-TO-VOICE-
    ```
 2.Install the required package:
 ```bash
